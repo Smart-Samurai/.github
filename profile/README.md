@@ -18,7 +18,7 @@
 
 **[smart-knife.smart-samurai.pl](https://smart-knife.smart-samurai.pl)** is an online toolset that runs in the browser, with an AI assistant built into every tool and an MCP endpoint for outside agents. It is live and public now, and paid plans for real users are launching soon.
 
-| | |
+| Part | What it does |
 |---|---|
 | 📄 **CV builder** | Polish and English, a version for every job offer, ATS check, many layouts, PDF and DOCX export, an application tracker |
 | 🗂️ **Office and media** | Documents, spreadsheets and slides; Craft apps for photos, video, graphics and audio; PDF with OCR; SQL; workflows |
