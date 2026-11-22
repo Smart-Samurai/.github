@@ -42,7 +42,6 @@
 |---|---|
 | [**Finetune Studio**](https://genortg.github.io/finetune-studio/) | Open-source self-hosted WebUI and CLI: RAG corpora with OCR, knowledge packages over MCP or HTTP, LoRA/QLoRA fine-tuning, GGUF export · [code](https://github.com/GenorTG/finetune-studio) |
 | [**glass-vision**](https://github.com/GenorTG/glass-vision) | Phone camera → your own GPU server → live recognition overlay: objects, text, faces, OCR, pose. AGPL-3.0 |
-| [**ComfyUI PromptForge**](https://github.com/GenorTG/ComfyUI-PromptForge) | ComfyUI prompt-enhancement node pack with an image and video workflow suite. MIT |
 
 ---
 
